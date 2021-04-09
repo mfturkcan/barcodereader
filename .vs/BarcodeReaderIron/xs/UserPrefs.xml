@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DF1C4D6E-622E-409D-BE1C-01999EC7F635}|Default">
+  <MonoDevelop.Ide.ItemProperties.BarcodeReaderIron FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BarcodeReaderIron/IronReader.cs">
+    <Files>
+      <File FileName="BarcodeReaderIron/Program.cs" Line="1" Column="1" />
+      <File FileName="BarcodeReaderIron/IronReader.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BarcodeReaderIron" expanded="True">
+            <Node name="BarcodeReaderIron" expanded="True">
+              <Node name="IronReader.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
